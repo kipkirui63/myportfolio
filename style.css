@@ -1,0 +1,25 @@
+#title{
+    background-color: cadetblue;
+    padding: 20px;
+    text-align: center;
+}
+#intro{
+background-color: blue;
+padding: 50px;
+}
+#heading{
+background-color: grey;
+padding: 80px;
+}
+#back{
+background-color: aqua;
+padding: 200px;
+}
+#contact{
+background-color: green;
+padding: 100px;
+}
+#footer{
+background-color: greenyellow;
+padding: 50px;
+}
