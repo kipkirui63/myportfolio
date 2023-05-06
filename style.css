@@ -48,10 +48,13 @@ li{
     width: 50%;
     height: 400px;
     font-size: xx-large;
+    margin-left: 300px;
+
 }
 
 .row-profile {
-    height: 400px;
+    height: 500px;
+    
 }
 
 .column-profile2 {
