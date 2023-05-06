@@ -46,10 +46,12 @@ li{
 .column-profile {
     float: left;
     width: 50%;
-    height: 400px;
+    height: 100%;
     font-size: xx-large;
-    margin-left: 300px;
-
+    background-image: url("image.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size:auto;
 }
 
 .row-profile {
@@ -66,4 +68,11 @@ li{
     padding-right: 30px;
     margin-right: 100px;
     text-align: center;
+}
+.profile-h2 {
+    margin-left: 500px;
+    margin-top: 200px;
+    font-size: 70px;
+    color: azure;
+    font-weight: bold;
 }
