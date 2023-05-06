@@ -47,6 +47,7 @@ li{
     float: left;
     width: 50%;
     height: 400px;
+    font-size: xx-large;
 }
 
 .row-profile {
@@ -61,4 +62,5 @@ li{
     margin-top: 40px;
     padding-right: 30px;
     margin-right: 100px;
+    text-align: center;
 }
