@@ -1,25 +1,35 @@
 #title{
     background-color: cadetblue;
     padding: 20px;
-    text-align: center;
 }
 #intro{
 background-color: blue;
-padding: 50px;
+height: 20px;
 }
 #heading{
 background-color: grey;
-padding: 80px;
+height: 100px;
+font-size: large;
+font-weight: bolder;
+padding: 25px;
+text-align: center;
 }
 #back{
 background-color: aqua;
-padding: 200px;
+height: 600px;
 }
 #contact{
 background-color: green;
-padding: 100px;
+height: 100px;
 }
 #footer{
 background-color: greenyellow;
-padding: 50px;
+height: 50px;
+text-align: end;
+}
+
+li{
+    display: inline;
+    padding: 20px;
+    text-align: end;
 }
