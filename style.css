@@ -52,6 +52,7 @@ li{
     background-size: cover;
     background-repeat: no-repeat;
     background-size:auto;
+    text-align: center;
 }
 
 .row-profile {
