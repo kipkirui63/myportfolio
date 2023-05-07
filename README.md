@@ -18,8 +18,9 @@
 
 https://kipkirui63.github.io/myportfolio/
 
-## Skecth
+## Design IMage
 
+![1683475133139](https://user-images.githubusercontent.com/132657975/236688735-4fbc9c73-b1fd-41b4-b3ce-2757dd984a1c.jpg)
 
 
 ## MIT License
