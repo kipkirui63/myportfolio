@@ -19,6 +19,7 @@ height: 20px;
 height: 400px;
 background-color: aqua;
 padding: 10px;
+text-align: left;
 }
 #contact{
 background-color: green;
@@ -90,4 +91,5 @@ input{
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
+    background-color: azure;
 }
